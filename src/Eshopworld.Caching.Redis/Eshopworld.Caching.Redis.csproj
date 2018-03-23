@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Eshopworld.Caching.Redis</PackageId>
+    <version>2.0.0</version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Eshopworld.Caching.Core" Version="2.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.1" />
+    <PackageReference Include="StackExchange.Redis.Extensions.Core" Version="3.2.0" />
+    <PackageReference Include="StackExchange.Redis.Extensions.Newtonsoft" Version="3.2.0" />
+  </ItemGroup>
+
+</Project>
