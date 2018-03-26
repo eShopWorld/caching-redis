@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eshopworld.Caching.Redis", "src\Eshopworld.Caching.Redis\Eshopworld.Caching.Redis.csproj", "{DA3AEBCB-8C42-44B2-81D6-2A73E6CCCF98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eshopworld.Caching.Redis", "Eshopworld.Caching.Redis\Eshopworld.Caching.Redis.csproj", "{612EB525-870E-443F-9656-7CEBBC19AC26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eshopworld.Caching.Redis.Tests", "src\Eshopworld.Caching.Redis.Tests\Eshopworld.Caching.Redis.Tests.csproj", "{EBA5EBC4-188B-421A-8CB0-B36967960A33}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eshopworld.Caching.Redis.Tests", "Tests\Eshopworld.Caching.Redis.Tests\Eshopworld.Caching.Redis.Tests.csproj", "{EBA5EBC4-188B-421A-8CB0-B36967960A33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DA3AEBCB-8C42-44B2-81D6-2A73E6CCCF98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DA3AEBCB-8C42-44B2-81D6-2A73E6CCCF98}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DA3AEBCB-8C42-44B2-81D6-2A73E6CCCF98}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DA3AEBCB-8C42-44B2-81D6-2A73E6CCCF98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{612EB525-870E-443F-9656-7CEBBC19AC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612EB525-870E-443F-9656-7CEBBC19AC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612EB525-870E-443F-9656-7CEBBC19AC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612EB525-870E-443F-9656-7CEBBC19AC26}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EBA5EBC4-188B-421A-8CB0-B36967960A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EBA5EBC4-188B-421A-8CB0-B36967960A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBA5EBC4-188B-421A-8CB0-B36967960A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
